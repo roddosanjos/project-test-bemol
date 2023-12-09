@@ -29,16 +29,16 @@ ________________________________________________________________________________
 Para executar os cenários das Etapa III e IV é necessário que a máquina esteja configurada com os seguintes programas
 
 - Python
- - https://www.python.org/downloads/
+     - https://www.python.org/downloads/
 - Robotframework
- - pip install robotframework 
+     - pip install robotframework 
 
 
 #   Etapa III
 Configurações específicas para a etapa III
 - Libraries 
- - pip install robotframework-browser
- - rfbrowser init
+     - pip install robotframework-browser
+     - rfbrowser init
 
 Para rodar os testes é necessário abrir o prompt de comando
 - Estar dentro do repositório ' ~\etapa_III '
