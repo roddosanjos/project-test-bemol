@@ -2,10 +2,13 @@
 Repositório criado para um teste de admissão 
 
 Os cenários automatizados dos testes estão disponíveis em https://github.com/roddosanjos/project-test-bemol (público)
-Para acessálos basta realizar um fork no projeto. 
+Para acessá-los basta realizar um fork no projeto. 
 
 #   ETAPA I
-
+A etapa I está descrita em 3 arquivos.
+- "Bemol - Artefato 1 - Plano de Testes (Contexto Agil).pdf"
+- "Bemol - Artefato 2 - Reporte de bugs.pdf"
+- "Bemol - Artefato 3 - Parecer sobre o app Marvelopedia.pdf"
 
 
 
