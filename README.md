@@ -1,5 +1,5 @@
 # project-test-bemol
-Repositório criado para um teste de admissão 
+Repositório de teste
 
 Os cenários automatizados dos testes estão disponíveis em https://github.com/roddosanjos/project-test-bemol (público)
 Para acessá-los basta realizar um fork no projeto. 
